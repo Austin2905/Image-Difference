@@ -5,3 +5,7 @@ numpy
 matplotlib
 seaborn
 scikit-image
+openpyxl
+pillow
+datetime
+os
