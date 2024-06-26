@@ -8,4 +8,4 @@ scikit-image
 openpyxl
 pillow
 datetime
-os
+
